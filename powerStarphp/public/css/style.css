@@ -1,0 +1,90 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: "Roboto" !important;
+    font-weight: 200;
+}
+
+h1 {
+    font-weight: 700 !important;
+    font-size: 40px !important;
+}
+
+h2 {
+    font-weight: 400 !important;
+}
+
+/* Accordion styling */
+h2 button {
+    background-color: #f5f8f8 !important;
+    font-weight: 700 !important;
+    font-size: 12px !important;
+    font-family: "Roboto" !important;
+    letter-spacing: 2px;
+}
+
+.theme-text-color2 {
+    color: #433d3c !important;
+}
+
+ul {
+    font-weight: 300;
+    list-style-type: none;
+}
+
+.bg-img {
+    background-image: url("/imgs/logo-screen.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.theme-text-color {
+    color: #ae0025;
+}
+
+.theme-card-color {
+    background-color: #f4f8f8;
+}
+
+.theme-header-space {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.theme-body-space {
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.theme-bg, .theme-btn {
+    background-color: #ae0025;
+    color: white;
+}
+
+.theme-btn:hover {
+    background-color: #433d3c !important;
+    color: white;    
+}
+
+.theme-grey {
+    background-color: #dad9d8;
+}
+
+.theme-font-bold {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.theme-font-text {
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+footer {
+    background-color: #433d3c;
+}
