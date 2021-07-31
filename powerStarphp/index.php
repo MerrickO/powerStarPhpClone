@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<%- include('partials/header') %>
+<?php include('partials/header') ?>
 
   <body>
-    <%- include('partials/notification') %>
-      <%- include('partials/nav') %>
-        <%- include('partials/index-slide') %>
+    <?php include('partials/notification') ?>
+      <?php include('partials/nav') ?>
+        <?php include('partials/index-slide') ?>
           <!-- Trucks and Construction Equipment -->
           <div class="theme-body-space">
             <div class="text-center">
@@ -134,7 +134,7 @@
             <div class="theme-bg text-center p-3">
               <p class="m-0">Driven by <strong>VISION</strong>.Powered by <strong>STRENGTH</strong></p>
             </div>
-            <%- include('partials/footer') %>
+            <?php include('partials/footer') ?>
   </body>
 
   </html>

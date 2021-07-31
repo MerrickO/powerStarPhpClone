@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<%- include('../partials/header') %>
+<?php include('../partials/header') ?>
 
   <body>
-    <%- include('../partials/notification') %>
-      <%- include('../partials/nav') %>
+    <?php include('../partials/notification') ?>
+      <?php include('../partials/nav') ?>
         <header class="text-center ">
           <h1 class="display-3 theme-bg theme-header-space"><b>POWERSTAR TRUCKS</b></h1>
         </header>
         <div class="container">
           <div class="pt-5 pb-5">
-            <%- include('../partials/index-slide') %>
+            <?php include('../partials/index-slide') ?>
           </div>
           <h6>
             Are you in the market for a no-nonsense workhorse?
@@ -91,7 +91,7 @@
             </div>
           </div>
         </div>
-        <%- include('../partials/footer') %>
+        <?php include('../partials/footer') ?>
   </body>
 
   </html>

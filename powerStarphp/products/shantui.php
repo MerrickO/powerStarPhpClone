@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<%- include('../partials/header') %>
+<?php include('../partials/header') ?>
 
   <body>
-    <%- include('../partials/notification') %>
-      <%- include('../partials/nav') %>
+    <?php include('../partials/notification') ?>
+      <?php include('../partials/nav') ?>
         <header class="text-center ">
           <h1 class="display-3 theme-bg theme-header-space"><b>SHANTUI</b></h1>
         </header>
         <div class="container">
           <div class="pt-5 pb-5">
-            <%- include('../partials/products/shantui-slide.ejs') %>
+            <?php include('../partials/products/shantui-slide.ejs') ?>
           </div>
           <h6>Choose award-winning vehicles and equipment. Choose Shantui.</h6>
           <p>
@@ -151,7 +151,7 @@
             </div>
           </div>
         </div>
-        <%- include('../partials/footer') %>
+        <?php include('../partials/footer') ?>
   </body>
 
   </html>

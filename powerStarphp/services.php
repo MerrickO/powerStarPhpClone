@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<%- include('partials/header') %>
+<?php include('partials/header') ?>
 
     <body>
-        <%- include('partials/nav') %>
+        <?php include('partials/nav') ?>
             <header class="text-center">
                 <h1 class="display-3 theme-bg mb-0 theme-header-space"><b>SERVICES</b></h1>
             </header>
@@ -83,7 +83,7 @@
 
                 </div>
             </div>
-            <%- include('partials/footer') %>
+            <?php include('partials/footer') ?>
     </body>
 
     </html>

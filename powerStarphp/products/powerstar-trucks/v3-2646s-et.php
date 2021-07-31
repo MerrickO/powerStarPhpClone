@@ -9,7 +9,7 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 
 <html>
-<%- include('../../partials/header') %>
+<?php include('../../partials/header') ?>
 
   <body>
     <!--[if lt IE 7]>
@@ -19,8 +19,8 @@
       </p>
     <![endif]-->
 
-    <%- include('../../partials/notification') %>
-      <%- include('../../partials/nav') %>
+    <?php include('../../partials/notification') ?>
+      <?php include('../../partials/nav') ?>
 
         <header class="text-center">
           <h1 class="display-3 theme-bg theme-header-space">POWERSTAR</h1>
@@ -399,7 +399,7 @@
           </div>
         </div>
 
-        <%- include('../../partials/footer') %>
+        <?php include('../../partials/footer') ?>
   </body>
 
 </html>
