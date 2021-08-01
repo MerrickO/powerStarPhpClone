@@ -22,7 +22,7 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-6 theme-body-space">
-                <img class="img-fluid" src="/imgs/products/ft8/ft8-image.jpg" alt="" />
+                <img class="img-fluid" src="./public/imgs/products/ft8/ft8-image.jpg" alt="" />
               </div>
               <div class="col-lg-6">
                 <!-- Specs Accordion -->
@@ -298,7 +298,7 @@
                   </div>
                   <div class="row text-center theme-body-space">
                     <div class="col">
-                      <a class="btn btn-lg theme-btn" href="/imgs/products/ft8/ft8-brochure-22-02-19.pdf"
+                      <a class="btn btn-lg theme-btn" href="./public/imgs/products/ft8/ft8-brochure-22-02-19.pdf"
                         download>Download
                         Specs</a>
                     </div>

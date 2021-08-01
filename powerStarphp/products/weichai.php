@@ -18,79 +18,79 @@
                 <div class="container text-center pt-5">
                     <div>
                         <div class="p-5">
-                            <img src="/imgs/site-images/logo-weichei.jpg" alt="" />
+                            <img src="./public/imgs/site-images/logo-weichei.jpg" alt="" />
                             <p><b>Land Based Genset Generators</b></p>
                         </div>
                         <div class="row">
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-06.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-06.jpg" alt="" />
                                 <h4>Model: WPG38 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-02.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-02.jpg" alt="" />
                                 <h4>Model: WPG80 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-02.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-02.jpg" alt="" />
                                 <h4>Model: WPG100 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-03.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-03.jpg" alt="" />
                                 <h4>Model: WPG170 Series</h4>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-03.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-03.jpg" alt="" />
                                 <h4>Model: WPG220 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-10.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-10.jpg" alt="" />
                                 <h4>Model: WPG330 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-10.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-10.jpg" alt="" />
                                 <h4>Model: WPG350 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-11.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-11.jpg" alt="" />
                                 <h4>Model: WPG500 Series</h4>
                             </div>
 
                         </div>
                         <div class="row">
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-03.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-03.jpg" alt="" />
                                 <h4>Model: WPG220 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-10.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-10.jpg" alt="" />
                                 <h4>Model: WPG330 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-10.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-10.jpg" alt="" />
                                 <h4>Model: WPG350 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-11.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-11.jpg" alt="" />
                                 <h4>Model: WPG500 Series</h4>
                             </div>
                         </div>
                         <div class="row">
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-01.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-01.jpg" alt="" />
                                 <h4>Model: WPG700 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-09.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-09.jpg" alt="" />
                                 <h4>Model: WPG15 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-09.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-09.jpg" alt="" />
                                 <h4>Model: WPG17 Series</h4>
                             </div>
                             <div class="col-xl-3">
-                                <img src="/imgs/site-images/weichai-11.jpg" alt="" />
+                                <img src="./public/imgs/site-images/weichai-11.jpg" alt="" />
                                 <h4>Model: WPG700 Series</h4>
                             </div>
 

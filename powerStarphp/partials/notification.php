@@ -1,10 +1,10 @@
 <div class="bg-dark text-white">
     <div class="container-fluid">
         <div class="row justify-content-around">
-            <div class="col">
+            <div class="col-xl-6">
                 <p>admin@powerstarsc.com</p>
             </div>
-            <div class="col">
+            <div class="col-xl-6">
                 <p>035 772 1739 / 035 772 1539</p>
             </div>
         </div>

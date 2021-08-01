@@ -17,7 +17,7 @@
                 </header>
                 <div class="row align-items-center m-0">
                     <div class="col-xl-6">
-                        <img class="img-fluid" src="/imgs/products/shantui/sd52-5.png" alt="">
+                        <img class="img-fluid" src="./public/imgs/products/shantui/sd52-5.png" alt="">
                     </div>
                     <div class="col-xl-6">
                         <h4 class="text-center display-5">SD52-5 Bulldozer</h4>
@@ -27,7 +27,7 @@
                         <div class="row text-center pb-5">
                             <div class="col">
                                 <a class="btn btn-lg theme-btn" download
-                                    href="/imgs/products/shantui/shantui-speck-sheets-sd-52-5-final.pdf">Download
+                                    href="./public/imgs/products/shantui/shantui-speck-sheets-sd-52-5-final.pdf">Download
                                     Specs</a>
                             </div>
                             <div class="col">

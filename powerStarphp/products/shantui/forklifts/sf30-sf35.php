@@ -17,7 +17,7 @@
                 </header>
                 <div class="row align-items-center m-0">
                     <div class="col-xl-6">
-                        <img class="img-fluid" src="/imgs/products/shantui/sf30sf35.jpg" alt="">
+                        <img class="img-fluid" src="./public/imgs/products/shantui/sf30sf35.jpg" alt="">
                     </div>
                     <div class="col-xl-6">
                         <h4 class="text-center display-5">SF30 and SF35 Forklift</h4>
@@ -30,7 +30,7 @@
                         <div class="row text-center pb-5">
                             <div class="col">
                                 <a class="btn btn-lg theme-btn" download
-                                    href="/imgs/products/shantui/sf-30-sf-35.pdf">Download
+                                    href="./public/imgs/products/shantui/sf-30-sf-35.pdf">Download
                                     Specs</a>
                             </div>
                             <div class="col">

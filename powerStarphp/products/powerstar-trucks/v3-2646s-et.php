@@ -35,44 +35,44 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-6">
-                <img class="img-fluid" src="/imgs/products/v3-2646-03/main.png" alt="" />
+                <img class="img-fluid" src="./public/imgs/products/v3-2646-03/main.png" alt="" />
 
                 <!-- Gallery -->
 
                 <div class="theme-body-space">
                   <div class="row">
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-02.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-02.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-03.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-03.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-04.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-04.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-05.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
                   </div>
 
                   <div class="row">
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-05.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-07.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-07.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-08.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-08.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="/imgs/products/v3-2646-01/ps-int-09.jpg" />
+                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-09.jpg" />
                     </div>
                   </div>
                 </div>
@@ -383,7 +383,7 @@
                   <div class="row text-center theme-body-space">
                     <div class="col">
                       <a class="btn btn-lg theme-btn"
-                        href="/imgs/products/v3-2646-03/v3-2646s-et-amt-6x4-truck-tractor.pdf" download>Download
+                        href="./public/imgs/products/v3-2646-03/v3-2646s-et-amt-6x4-truck-tractor.pdf" download>Download
                         Specs</a>
                     </div>
 

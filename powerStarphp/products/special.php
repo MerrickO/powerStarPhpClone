@@ -21,9 +21,9 @@
                         Powerstar Service Centre can assist with specialised units which is tailor-made and built to clients 
                         specifications and requirements
                     </p>
-                    <img src="/imgs/site-images/special-1.jpg" alt="">
-                    <img src="/imgs/site-images/special-3.jpg" alt="">
-                    <img src="/imgs/site-images/special-2.jpg" alt="">
+                    <img src="./public/imgs/site-images/special-1.jpg" alt="">
+                    <img src="./public/imgs/site-images/special-3.jpg" alt="">
+                    <img src="./public/imgs/site-images/special-2.jpg" alt="">
                 </div>
             </div>
         </div>
