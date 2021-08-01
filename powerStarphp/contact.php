@@ -2,16 +2,16 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 <html>
-<?php include('partials/header') ?>
+<?php include './partials/header.php'; ?>
 
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <?php include('partials/notification') ?>
-            <?php include('partials/nav') ?>
+        <?php include './partials/notification.php'; ?>
+            <?php include 'partials/nav.php'; ?>
                 <header class="text-center">
                     <h1 class="display-3 theme-bg theme-header-space"><b>ABOUT US</b></h1>
                 </header>
@@ -47,25 +47,25 @@
                     <div class="row mt-5 m-0">
                         <p><strong>Registered with:</strong></p>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-avis.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-avis.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-eqstra.jpg" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-eqstra.jpg" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-fleetafrica.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-fleetafrica.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-kcs.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-kcs.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-umhlath.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-umhlath.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/logo-wesbank.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/logo-wesbank.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="/imgs/site-images/standard-bank.png" alt="">
+                            <img class="img-fluid" src="./public/imgs/site-images/standard-bank.png" alt="">
                         </div>
                         <div class="col">
                             <img class="img-fluid" src="https://powerstarsc.com/images/site-images/eskom-logo.png"
@@ -85,7 +85,7 @@
                     </div>
                 </div>
 
-                <?php include('partials/footer') ?>
+                <?php include './partials/footer.php'; ?>
     </body>
 
 </html>

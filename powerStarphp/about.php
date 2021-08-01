@@ -4,14 +4,14 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
-<?php include('partials/header') ?>
+<?php include './partials/header.php'; ?>
 
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <?php include('partials/notification') ?>
-            <?php include('partials/nav') ?>
+        <?php include './partials/notification.php' ?>
+            <?php include './partials/nav.php'; ?>
                 <header class="text-center">
                     <h1 class="display-3 theme-bg theme-header-space"><b>ABOUT US</b></h1>
                 </header>
@@ -34,7 +34,7 @@
                                 </p>
                             </div>
                             <div class="col-xl-6 align-self-center">
-                                <img class="img-fluid" src="/imgs/site-images/jay-reddy.jpg" alt="" />
+                                <img class="img-fluid" src="./public/imgs/site-images/jay-reddy.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                 <div class="theme-bg theme-body-space">
                     <div class="container text-center">
                         <h2 class="theme-font-text pb-3"><b>Corporate Social Investment</b></h2>
-                        <img class="img-fluid" src="/imgs/site-images/csi.jpg" alt="">
+                        <img class="img-fluid" src="./public/imgs/site-images/csi.jpg" alt="">
                         <p class="mb-0 pt-5">
                             Powerstar Service Centre believes in investing in the community and giving back, which
                             is why the company is involved in various social investments. Thutukani Special School
@@ -92,7 +92,7 @@
                         </p>
                     </div>
                 </div>
-                <?php include('partials/footer') ?>
+                <?php include './partials/footer.php' ?>
     </body>
 
 </html>

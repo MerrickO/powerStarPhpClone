@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<?php include('partials/header') ?>
+<?php include './partials/header.php'; ?>
 
   <body>
-    <?php include('partials/notification') ?>
-      <?php include('partials/nav') ?>
-        <?php include('partials/index-slide') ?>
+    <?php include './partials/notification.php'; ?>
+      <?php include './partials/nav.php'; ?>
+        <?php include './partials/index-slide.php'; ?>
           <!-- Trucks and Construction Equipment -->
           <div class="theme-body-space">
             <div class="text-center">
@@ -16,9 +16,9 @@
                   <div>
                     <a href="/products/powerstar-trucks">
                       <div>
-                        <img src="/imgs/powerstar-logo.jpg" width="250" />
+                        <img src="./public/imgs/powerstar-logo.jpg" width="250" />
                       </div>
-                      <img src="/imgs/site-images/powerstar1-fp.png" width="250" />
+                      <img src="./public/imgs/site-images/powerstar1-fp.png" width="250" />
                     </a>
                     <p class="theme-text-color">Powerstar Trucks</p>
                   </div>
@@ -27,9 +27,9 @@
                   <div>
                     <a href="/products/ft-series">
                       <div>
-                        <img src="/imgs/site-images/logo-ft.jpg" width="150" />
+                        <img src="./public/imgs/site-images/logo-ft.jpg" width="150" />
                       </div>
-                      <img src="/imgs/products/ft-slide/ft10-portrait.jpg" width="250" />
+                      <img src="./public/imgs/products/ft-slide/ft10-portrait.jpg" width="250" />
                     </a>
                     <p class="theme-text-color">FT Series</p>
                   </div>
@@ -38,9 +38,9 @@
                   <div>
                     <a href="/products/shantui">
                       <div>
-                        <img src="/imgs/site-images/shantui.png" width="250" />
+                        <img src="./public/imgs/site-images/shantui.png" width="250" />
                       </div>
-                      <img src="/imgs/site-images/shantui1-3-fp.png" width="250" />
+                      <img src="./public/imgs/site-images/shantui1-3-fp.png" width="250" />
                     </a>
                     <p class="theme-text-color">Construction Equipment</p>
                   </div>
@@ -49,9 +49,9 @@
                   <div>
                     <a href="/products/weichai">
                       <div>
-                        <img src="/imgs/site-images/logo-weichei.jpg" width="250" />
+                        <img src="./public/imgs/site-images/logo-weichei.jpg" width="250" />
                       </div>
-                      <img src="/imgs/site-images/weichai_fp.jpg" width="250" />
+                      <img src="./public/imgs/site-images/weichai_fp.jpg" width="250" />
                     </a>
                     <p class="theme-text-color">FT Series</p>
                   </div>
@@ -67,7 +67,7 @@
               <div class="row animate__animated  animate__fadeIn">
                 <div class="col-xl-6 p-5">
                   <div class="card theme-card-color">
-                    <img class="card-img-top h-25 w-25 m-auto pt-4" src="/imgs/favicon-ico.png" alt="...">
+                    <img class="card-img-top h-25 w-25 m-auto pt-4" src="./public/imgs/favicon-ico.png" alt="...">
                     <div>
                       <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
                         viewBox="0 0 172 172" style=" fill:#000000;">
@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-xl-6 p-5">
                   <div class="card theme-card-color">
-                    <img class="card-img-top h-25 w-25 m-auto pt-4" src="/imgs/favicon-ico.png" alt="...">
+                    <img class="card-img-top h-25 w-25 m-auto pt-4" src="./public/imgs/favicon-ico.png" alt="...">
                     <div>
                       <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30"
                         viewBox="0 0 172 172" style=" fill:#000000;">
@@ -134,7 +134,7 @@
             <div class="theme-bg text-center p-3">
               <p class="m-0">Driven by <strong>VISION</strong>.Powered by <strong>STRENGTH</strong></p>
             </div>
-            <?php include('partials/footer') ?>
+            <?php include './partials/footer.php'; ?>
   </body>
 
   </html>

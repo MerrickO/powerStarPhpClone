@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<?php include('partials/header') ?>
-
+<?php include './partials/header.php'; ?>
     <body>
-        <?php include('partials/nav') ?>
+        <?php include './partials/nav.php'; ?>
             <header class="text-center">
                 <h1 class="display-3 theme-bg mb-0 theme-header-space"><b>SERVICES</b></h1>
             </header>
@@ -11,7 +10,7 @@
                     <div class="row theme-body-space">
                         <div class="col-xl-6">
                             <div class="card bg-dark text-white">
-                                <img src="/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="...">
+                                <img src="./public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Types of vehicle that can be repaired in our workshop</h5>
                                     <ul class="card-text">
@@ -83,7 +82,7 @@
 
                 </div>
             </div>
-            <?php include('partials/footer') ?>
+            <?php include './partials/footer.php'; ?>
     </body>
 
     </html>
