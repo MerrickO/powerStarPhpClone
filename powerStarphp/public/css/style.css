@@ -35,7 +35,7 @@ ul {
 }
 
 .bg-img {
-    background-image: url("/imgs/logo-screen.png");
+    background-image: url("../../public/imgs/logo-screen.png");
     background-position: left;
     background-repeat: no-repeat;
     background-attachment: fixed;
