@@ -2,15 +2,15 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 <html>
-    <?php include('../partials/header') ?> 
+    <?php include '../partials/header.php'; ?> 
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <?php include('../partials/notification') ?>
-        <?php include('../partials/nav') ?>
+        <?php include '../partials/notification.php'; ?>
+        <?php include '../partials/nav.php'; ?>
         <header class="text-center">
             <h1 class="display-3 theme-bg"><b>SPECIALISED PRODUCTS</b></h1>
         </header> 
@@ -21,9 +21,9 @@
                         Powerstar Service Centre can assist with specialised units which is tailor-made and built to clients 
                         specifications and requirements
                     </p>
-                    <img src="./public/imgs/site-images/special-1.jpg" alt="">
-                    <img src="./public/imgs/site-images/special-3.jpg" alt="">
-                    <img src="./public/imgs/site-images/special-2.jpg" alt="">
+                    <img src="/public/imgs/site-images/special-1.jpg" alt="">
+                    <img src="/public/imgs/site-images/special-3.jpg" alt="">
+                    <img src="/public/imgs/site-images/special-2.jpg" alt="">
                 </div>
             </div>
         </div>
@@ -80,6 +80,6 @@
                 Jay invites all fleet owners to visit Powerstar Empangeni to find out what this brand can do for their businesses.
             </p>
         </div>
-        <?php include('../partials/footer') ?> 
+        <?php include '../partials/footer.php'; ?> 
     </body>
 </html>

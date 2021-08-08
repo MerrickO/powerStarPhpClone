@@ -34,7 +34,7 @@
                                 </p>
                             </div>
                             <div class="col-xl-6 align-self-center">
-                                <img class="img-fluid" src="./public/imgs/site-images/jay-reddy.jpg" alt="" />
+                                <img class="img-fluid" src="/public/imgs/site-images/jay-reddy.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                 <div class="theme-bg theme-body-space">
                     <div class="container text-center">
                         <h2 class="theme-font-text pb-3"><b>Corporate Social Investment</b></h2>
-                        <img class="img-fluid" src="./public/imgs/site-images/csi.jpg" alt="">
+                        <img class="img-fluid" src="/public/imgs/site-images/csi.jpg" alt="">
                         <p class="mb-0 pt-5">
                             Powerstar Service Centre believes in investing in the community and giving back, which
                             is why the company is involved in various social investments. Thutukani Special School

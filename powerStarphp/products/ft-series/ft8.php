@@ -5,14 +5,14 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 
 <html>
-<?php include('../../partials/header') ?>
+<?php include '../../partials/header.php'; ?>
 
   <body>
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <?php include('../../partials/notification') ?>
-      <?php include('../../partials/nav') ?>
+    <?php include '../../partials/notification.php'; ?>
+      <?php include '../../partials/nav.php' ?>
         <header class="text-center">
           <h1 class="display-3 theme-bg theme-header-space">POWERSTAR</h1>
         </header>
@@ -22,7 +22,7 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-6 theme-body-space">
-                <img class="img-fluid" src="./public/imgs/products/ft8/ft8-image.jpg" alt="" />
+                <img class="img-fluid" src="/public/imgs/products/ft8/ft8-image.jpg" alt="" />
               </div>
               <div class="col-lg-6">
                 <!-- Specs Accordion -->
@@ -298,7 +298,7 @@
                   </div>
                   <div class="row text-center theme-body-space">
                     <div class="col">
-                      <a class="btn btn-lg theme-btn" href="./public/imgs/products/ft8/ft8-brochure-22-02-19.pdf"
+                      <a class="btn btn-lg theme-btn" href="/public/imgs/products/ft8/ft8-brochure-22-02-19.pdf"
                         download>Download
                         Specs</a>
                     </div>
@@ -313,7 +313,7 @@
             </div>
           </div>
         </div>
-        <?php include('../../partials/footer') ?>
+        <?php include '../../partials/footer.php'; ?>
   </body>
 
 </html>

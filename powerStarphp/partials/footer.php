@@ -4,7 +4,7 @@
 <footer class="theme-body-space">
     <div class="container">
         <div class="text-center">
-            <img class="img-fluid" src="./public/imgs/powerstar-white.png" alt="">
+            <img class="img-fluid" src="/public/imgs/powerstar-white.png" alt="">
             <p class="text-white"><small>© POWERSTAR SERVICE CENTRE. ALL RIGHTS RESERVED.</small></p>
         </div>
     </div>

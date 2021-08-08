@@ -5,14 +5,14 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 
 <html>
-<?php include('../../partials/header') ?>
+<?php include '../../partials/header.php'; ?>
 
   <body>
     <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-    <?php include('../../partials/notification') ?>
-      <?php include('../../partials/nav') ?>
+    <?php include '../../partials/notification.php'; ?>
+      <?php include '../../partials/nav.php'; ?>
         <header class="text-center">
           <h1 class="display-3 theme-bg theme-header-space">POWERSTAR</h1>
         </header>
@@ -22,49 +22,49 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-6">
-                <img class="img-fluid" src="./public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39.png" alt="" />
+                <img class="img-fluid" src="/public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39.png" alt="" />
                 <!-- Gallery -->
                 <div class="theme-body-space">
                   <div class="row">
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3324--copy-1.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3324--copy-1.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3343--copy.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3343--copy.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3374--copy.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3374--copy.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3384--copy.jpg" />
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3438--1.jpg" />
-                    </div>
-                    <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3448--1.jpg" />
-                    </div>
-                    <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3468-.jpg" />
-                    </div>
-                    <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3484-.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3384--copy.jpg" />
                     </div>
                   </div>
                   <div class="row">
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3491-.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3438--1.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3497-.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3448--1.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/_3510--1.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3468-.jpg" />
                     </div>
                     <div class="col">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/ft3/image-1-copy-1.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3484-.jpg" />
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col">
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3491-.jpg" />
+                    </div>
+                    <div class="col">
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3497-.jpg" />
+                    </div>
+                    <div class="col">
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3510--1.jpg" />
+                    </div>
+                    <div class="col">
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/image-1-copy-1.jpg" />
                     </div>
                   </div>
                 </div>
@@ -347,7 +347,7 @@
                   </div>
                   <div class="row text-center theme-body-space">
                     <div class="col">
-                      <a class="btn btn-lg theme-btn" href="./public/imgs/products/ft3/ft3.pdf" download>Download
+                      <a class="btn btn-lg theme-btn" href="/public/imgs/products/ft3/ft3.pdf" download>Download
                         Specs</a>
                     </div>
                     <div class="col">
@@ -361,7 +361,7 @@
             </div>
           </div>
         </div>
-        <?php include('../../partials/footer') ?>
+        <?php include '../../partials/footer.php'; ?>
   </body>
 
 </html>

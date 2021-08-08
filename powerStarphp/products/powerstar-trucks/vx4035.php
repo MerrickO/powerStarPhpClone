@@ -9,7 +9,7 @@
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 
 <html>
-<?php include('../../partials/header') ?>
+<?php include '../../partials/header.php'; ?>
 
   <body>
     <!--[if lt IE 7]>
@@ -19,8 +19,8 @@
       </p>
     <![endif]-->
 
-    <?php include('../../partials/notification') ?>
-      <?php include('../../partials/nav') ?>
+    <?php include '../../partials/notification.php'; ?>
+      <?php include '../../partials/nav.php'; ?>
 
         <header class="text-center">
           <h1 class="display-3 theme-bg theme-header-space">POWERSTAR</h1>
@@ -35,44 +35,44 @@
           <div class="container">
             <div class="row">
               <div class="col-lg-6">
-                <img class="img-fluid" src="./public/imgs/products/vx-4035/main-4035.png" alt="" />
+                <img class="img-fluid" src="/public/imgs/products/vx-4035/main-4035.png" alt="" />
 
                 <!-- Gallery -->
 
                 <div class="theme-body-space">
                   <div class="row">
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-02.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-02.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-03.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-03.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-04.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-04.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-05.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
                   </div>
 
                   <div class="row">
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-05.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-07.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-07.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-08.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-08.jpg" />
                     </div>
 
                     <div class="col-xl-3">
-                      <img class="w-100 h-100 p-1" src="./public/imgs/products/v3-2646-01/ps-int-09.jpg" />
+                      <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-09.jpg" />
                     </div>
                   </div>
                 </div>
@@ -384,7 +384,7 @@
 
                   <div class="row text-center theme-body-space">
                     <div class="col">
-                      <a class="btn btn-lg theme-btn" href="./public/imgs/products/vx-4035/vx4035.pdf" download>Download
+                      <a class="btn btn-lg theme-btn" href="/public/imgs/products/vx-4035/vx4035.pdf" download>Download
                         Specs</a>
                     </div>
 
@@ -400,7 +400,7 @@
           </div>
         </div>
 
-        <?php include('../../partials/footer') ?>
+        <?php include '../../partials/footer.php'; ?>
   </body>
 
 </html>

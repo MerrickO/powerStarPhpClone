@@ -4,20 +4,20 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
 <html>
-<?php include('../../../partials/header') ?>
+<?php include '../../../partials/header.php'; ?>
 
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <?php include('../../../partials/notification') ?>
-            <?php include('../../../partials/nav') ?>
+        <?php include '../../../partials/notification.php'; ?>
+            <?php include '../../../partials/nav.php'; ?>
                 <header class="text-center">
                     <h1 class="display-3 theme-bg theme-header-space">SHANTUI</h1>
                 </header>
                 <div class="row align-items-center m-0">
                     <div class="col-xl-6">
-                        <img class="img-fluid" src="./public/imgs/products/shantui/50wn-6.jpg" alt="">
+                        <img class="img-fluid" src="/public/imgs/products/shantui/50wn-6.jpg" alt="">
                     </div>
                     <div class="col-xl-6">
                         <h4 class="text-center display-5">SL50W-3 Wheel Loader</h4>
@@ -29,7 +29,7 @@
                         <div class="row text-center pb-5">
                             <div class="col">
                                 <a class="btn btn-lg theme-btn" download
-                                    href="./public/imgs/products/shantui/sl-50w3.pdf">Download
+                                    href="/public/imgs/products/shantui/sl-50w3.pdf">Download
                                     Specs</a>
                             </div>
                             <div class="col">
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <?php include('../../../partials/footer') ?>
+                <?php include '../../../partials/footer.php'; ?>
     </body>
 
 </html>

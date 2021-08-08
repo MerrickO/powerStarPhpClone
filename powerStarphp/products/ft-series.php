@@ -23,22 +23,22 @@
             <div class="row pb-5">
               <div class="col-xl-4 p-3">
                 <h4>Model: FT3</h4>
-                <a href="/products/ft-series/ft3">
-                  <img class="img-fluid" src="./public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39--1-.png" width="500"
+                <a href="/products/ft-series/ft3.php">
+                  <img class="img-fluid" src="/public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39--1-.png" width="500"
                     alt="">
                 </a>
               </div>
               <div class="col-xl-4 p-3">
                 <h4>Model: FT5</h4>
-                <a href="/products/ft-series/ft5">
-                  <img class="img-fluid" src="./public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39--1-.png" width="500"
+                <a href="/products/ft-series/ft5.php">
+                  <img class="img-fluid" src="/public/imgs/products/ft3/screen-shot-2018-05-16-at-10-07-39--1-.png" width="500"
                     alt="">
                 </a>
               </div>
               <div class="col-xl-4 p-3">
                 <h4>Model: FT 8</h4>
-                <a href="/products/ft-series/ft8">
-                  <img class="img-fluid" src="./public/imgs/products/ft8/ft8-main.jpg" width="500" alt="">
+                <a href="/products/ft-series/ft8.php">
+                  <img class="img-fluid" src="/public/imgs/products/ft8/ft8-main.jpg" width="500" alt="">
                 </a>
               </div>
 

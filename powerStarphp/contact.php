@@ -47,25 +47,25 @@
                     <div class="row mt-5 m-0">
                         <p><strong>Registered with:</strong></p>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-avis.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-avis.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-eqstra.jpg" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-eqstra.jpg" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-fleetafrica.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-fleetafrica.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-kcs.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-kcs.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-umhlath.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-umhlath.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/logo-wesbank.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/logo-wesbank.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="./public/imgs/site-images/standard-bank.png" alt="">
+                            <img class="img-fluid" src="/public/imgs/site-images/standard-bank.png" alt="">
                         </div>
                         <div class="col">
                             <img class="img-fluid" src="https://powerstarsc.com/images/site-images/eskom-logo.png"
