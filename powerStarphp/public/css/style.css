@@ -7,6 +7,10 @@ body {
     font-weight: 200;
 }
 
+.ul-bullet {
+    list-style-type: circle;
+}
+
 h1 {
     font-weight: 700 !important;
     font-size: 40px !important;
