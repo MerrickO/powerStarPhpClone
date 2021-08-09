@@ -8,7 +8,7 @@ body {
 }
 
 .ul-bullet {
-    list-style-type: circle;
+    list-style-type: disc;
 }
 
 h1 {
@@ -43,6 +43,10 @@ ul {
     background-position: left;
     background-repeat: no-repeat;
     background-attachment: fixed;
+}
+
+.bg-truck {
+    background-image: url("../../public/imgs/site-images/powerstar-truck-main.jpg");
 }
 
 .theme-text-color {
