@@ -14,7 +14,7 @@
                                 <img src="/public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Types of vehicle that can be repaired in our workshop</h5>
-                                    <ul class="card-text">
+                                    <ul class="card-text ul-bullet">
                                         <li>Passenger / LDV</li>
                                         <li>Medium Commercial (up to 5 ton) • Heavy Commercial (5 tons +)</li>
                                         <li>Yellow Fleet</li>
@@ -29,7 +29,7 @@
                         <div class="col-xl-6">
                             <div class="container text-center">
                                 <h4 class="theme-text-color">Our Competitive Edge</h4>
-                                <ul>
+                                <ul class="ul-bullet">
                                     <li>Service driven</li>
                                     <li>Full Truck maintenance – bumper to bumper</li>
                                     <li>In-house refurbishment</li>

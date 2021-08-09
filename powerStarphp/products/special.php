@@ -18,14 +18,20 @@
         </header> 
         <div>
             <div class="text-center">
-                <div class="container">
-                    <p>
-                        Powerstar Service Centre can assist with specialised units which is tailor-made and built to clients 
-                        specifications and requirements
-                    </p>
-                    <img src="/public/imgs/site-images/special-1.jpg" alt="">
-                    <img src="/public/imgs/site-images/special-3.jpg" alt="">
-                    <img src="/public/imgs/site-images/special-2.jpg" alt="">
+                <p>
+                    Powerstar Service Centre can assist with specialised units which is tailor-made and built to clients 
+                    specifications and requirements
+                </p>
+                <div class="container row">
+                    <div class="col-xl-4 p-3">
+                        <img src="/public/imgs/site-images/special-1.jpg" alt="">
+                    </div>
+                    <div class="col-xl-4 p-3">
+                        <img src="/public/imgs/site-images/special-3.jpg" alt="">
+                    </div>
+                    <div class="col-xl-4 p-3">
+                        <img src="/public/imgs/site-images/special-2.jpg" alt="">
+                    </div>
                 </div>
             </div>
         </div>
@@ -62,7 +68,7 @@
                 <h6><u>Fire/rescue unit</u></h6>
                 The client was very specific about the requirements of the actual fire-and-rescue unit, fitted onto the chassis, had to meet.
                 These are just some of the points on a very long list:
-                <ul>
+                <ul class="ul-bullet">
                     <li>Fire tender to be fitted with maintenance</li>
                     <li>Free deep cycle batteries</li>
                     <li>Failsafe engine protection system</li>
