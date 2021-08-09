@@ -2,6 +2,7 @@
 <?php include './partials/header.php'; ?>
 
   <body>
+    <a id="button"></a>
     <?php include './partials/notification.php'; ?>
       <?php include './partials/nav.php'; ?>
         <?php include './partials/index-slide.php'; ?>

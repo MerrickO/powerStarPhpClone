@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php include './partials/header.php'; ?>
     <body>
+        <a id="button"></a>
         <?php include './partials/nav.php'; ?>
             <header class="text-center">
                 <h1 class="display-3 theme-bg mb-0 theme-header-space"><b>SERVICES</b></h1>

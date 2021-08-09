@@ -6,7 +6,8 @@
 <html>
 <?php include './partials/header.php'; ?>
 
-    <body>
+<body>
+        <a id="button"></a>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -68,18 +69,36 @@
                             <img class="img-fluid" src="/public/imgs/site-images/standard-bank.png" alt="">
                         </div>
                         <div class="col">
-                            <img class="img-fluid" src="https://powerstarsc.com/images/site-images/eskom-logo.png"
+                            <img class="img-fluid" src="/public/imgs/site-images/eskom-logo.png"
                                 alt="">
                         </div>
                     </div>
                     <!-- Contact Form and Maps -->
-                    <div class="row">
+                    <div class="p-5 row">
                         <div class="col-xl-6">
-
+                            <p>Google Maps</p>
                         </div>
                         <div class="col-xl-6">
                             <form>
-
+                                <div class="row">
+                                    <div class="col-12">
+                                        <label for="name">Name:</label>
+                                        <input class="form-control" type="text" name="name"/>
+                                        <label for="surname">Surname</label>
+                                        <input class="form-control" type="text" name="surname"/>
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="tel">Telephone:</label>
+                                        <input class="form-control" type="tel" name="tel" pattern="[+27][0-9]{10}"/>
+                                        <label for="email"><span>*</span>Email:</label>
+                                        <input class="form-control" type="email" name="email" required/>
+                                    </div>
+                                    <div class="col-12">
+                                        <label for="message">Message:</label>
+                                        <textarea class="form-control" name="message"></textarea>
+                                    </div>
+                                    <button class="btn btn-lg">submit</button>
+                                </div>
                             </form>
                         </div>
                     </div>

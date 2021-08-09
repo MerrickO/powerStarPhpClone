@@ -4,6 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 <html>
+    <a id="button"></a>
     <?php include '../partials/header.php'; ?> 
     <body>
         <!--[if lt IE 7]>
@@ -11,7 +12,7 @@
         <![endif]-->
         <?php include '../partials/notification.php'; ?>
         <?php include '../partials/nav.php'; ?>
-        <header class="text-center">
+        <header class="text-center theme-header-space">
             <h1 class="display-3 theme-bg"><b>SPECIALISED PRODUCTS</b></h1>
         </header> 
         <div>
