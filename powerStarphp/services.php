@@ -10,8 +10,8 @@
                 <div class="container">
                     <div class="row theme-body-space">
                         <div class="col-xl-6">
-                            <div class="card bg-dark text-white">
-                                <img src="/public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="...">
+                            <div class="card bg-dark text-white bg-truck">
+                                <!-- <img src="/public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="..."> -->
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Types of vehicle that can be repaired in our workshop</h5>
                                     <ul class="card-text ul-bullet">
@@ -52,7 +52,7 @@
                     <h1 class="text-center theme-text-color"><b>Other Services Offered</b></h1>
                     <div class="row p-5">
                         <div class="col-xl-6">
-                            <ul>
+                            <ul class="ul-bullet">
                                 <li>Vehicle services – light & heavy-duty vehicles</li>
                                 <li>Auto Electrical</li>
                                 <li>Vehicle Diagnosis</li>
@@ -66,7 +66,7 @@
                             </ul>
                         </div>
                         <div class="col-xl-6">
-                            <ul>
+                            <ul class="ul-bullet">
                                 <li>Parts</li>
                                 <li>Stores</li>
                                 <li>Merchant Major Repair Categories: Engine, Gearbox, Diff, COF and Hydraulics</li>
