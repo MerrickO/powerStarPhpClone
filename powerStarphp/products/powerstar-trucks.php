@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<?php $title="Powerstar Service Center Products: Powerstar Trucks Series" ?>
+
 <?php include '../partials/header.php'; ?>
 
   <body>

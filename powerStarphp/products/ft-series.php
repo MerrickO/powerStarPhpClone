@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<?php $title="Powerstar Service Center Products: ft Series" ?>
 <?php include '../partials/header.php'; ?>
 
   <body>
