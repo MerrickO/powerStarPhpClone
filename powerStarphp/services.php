@@ -10,8 +10,8 @@
                 <div class="container">
                     <div class="row theme-body-space">
                         <div class="col-xl-6">
-                            <div class="card bg-dark text-white bg-truck">
-                                <!-- <img src="/public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="..."> -->
+                            <div class="card bg-dark text-white">
+                                <img src="/public/imgs/site-images/powerstar-truck-main.jpg" class="card-img" alt="...">
                                 <div class="card-img-overlay">
                                     <h5 class="card-title">Types of vehicle that can be repaired in our workshop</h5>
                                     <ul class="card-text ul-bullet">
