@@ -5,7 +5,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 <html>
-    <a id="button"></a>
+    
     <?php include '../partials/header.php'; ?> 
     <body>
         <!--[if lt IE 7]>
