@@ -2,7 +2,7 @@
 <?php include './partials/header.php'; ?>
 
   <body>
-    <a id="button"></a>
+    
     <?php include './partials/notification.php'; ?>
       <?php include './partials/nav.php'; ?>
         <?php include './partials/index-slide.php'; ?>
@@ -15,7 +15,7 @@
               <div class="row align-items-center">
                 <div class="col">
                   <div>
-                    <a href="/products/powerstar-trucks">
+                    <a href="/products/powerstar-trucks.php">
                       <div>
                         <img src="/public/imgs/powerstar-logo.jpg" width="250" />
                       </div>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="col">
                   <div>
-                    <a href="/products/ft-series">
+                    <a href="/products/ft-series.php">
                       <div>
                         <img src="/public/imgs/site-images/logo-ft.jpg" width="150" />
                       </div>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="col">
                   <div>
-                    <a href="/products/shantui">
+                    <a href="/products/shantui.php">
                       <div>
                         <img src="/public/imgs/site-images/shantui.png" width="250" />
                       </div>
@@ -48,7 +48,7 @@
                 </div>
                 <div class="col">
                   <div>
-                    <a href="/products/weichai">
+                    <a href="/products/weichai.php">
                       <div>
                         <img src="/public/imgs/site-images/logo-weichei.jpg" width="250" />
                       </div>
@@ -65,8 +65,8 @@
             <div class="container text-center">
               <h5 class="pt-5 theme-text-color">Testimonials</h5>
               <p class="display-3 theme-text-color theme-font-text"><b>What Our Clients Say</b></p>
-              <div class="row animate__animated  animate__fadeIn">
-                <div class="col-xl-6 p-5">
+              <div class="row theme-body-space" data-aos="zoom-in-down">
+                <div class="col-xl-6">
                   <div class="card theme-card-color">
                     <img class="card-img-top h-25 w-25 m-auto pt-4" src="/public/imgs/favicon-ico.png" alt="...">
                     <div>
@@ -97,7 +97,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xl-6 p-5">
+                <div class="col-xl-6">
                   <div class="card theme-card-color">
                     <img class="card-img-top h-25 w-25 m-auto pt-4" src="/public/imgs/favicon-ico.png" alt="...">
                     <div>
