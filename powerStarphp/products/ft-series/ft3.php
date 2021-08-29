@@ -27,44 +27,44 @@
                 <!-- Gallery -->
                 <div class="theme-body-space">
                   <div class="row">
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3324--copy-1.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3343--copy.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3374--copy.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3384--copy.jpg" />
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3438--1.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3448--1.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3468-.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3484-.jpg" />
                     </div>
                   </div>
                   <div class="row">
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3491-.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3497-.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/_3510--1.jpg" />
                     </div>
-                    <div class="col">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/ft3/image-1-copy-1.jpg" />
                     </div>
                   </div>

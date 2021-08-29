@@ -42,37 +42,37 @@
 
                 <div class="theme-body-space">
                   <div class="row">
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-02.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-03.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-04.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
                   </div>
 
                   <div class="row">
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-05.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-07.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-08.jpg" />
                     </div>
 
-                    <div class="col-xl-3">
+                    <div class="col ratio ratio-1x1">
                       <img class="w-100 h-100 p-1" src="/public/imgs/products/v3-2646-01/ps-int-09.jpg" />
                     </div>
                   </div>
