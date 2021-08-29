@@ -2,12 +2,12 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <![endif]-->
 <html>
 <?php include './partials/header.php'; ?>
 
     <body>
-        <a id="button"></a>
+        
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
@@ -18,7 +18,7 @@
                 </header>
                 <div>
                     <div class="theme-body-space">
-                        <div class="row text-center m-0">
+                        <div class="row text-center m-0" data-aos="fade-left">
                             <div class="col-xl-6 align-self-center">
                                 <h2 class="theme-text-color">Meet The Owner</h2>
                                 <p class="p-4">
@@ -41,10 +41,10 @@
                     </div>
                 </div>
                 <!-- About Us -->
-                <div class="bg-img p-5">
+                <div class="bg-img p-2 theme-body-space">
                     <h1 class="text-center theme-text-color p-4"><b>About us</b></h1>
-                    <div class="row m-0 p-5">
-                        <div class="col-xl-4 p-5">
+                    <div class="row align-items-center m-0 p-2" data-aos="zoom-in-down">
+                        <div class="col-xl-4 p-2">
                             <p class="container">
                                 Powerstar Service Centre is a RMI approved commercial truck and earthmoving dealership,
                                 with key
@@ -54,19 +54,17 @@
                                 delivery date.
                             </p>
                         </div>
-                        <div class="col-xl-4 p-5">
+                        <div class="col-xl-4 p-2">
                             <div class="card text-center">
-                                <div class="card-body">
-                                    <div>
-                                        <img src="https://img.icons8.com/ios/50/000000/diamond--v1.png" />
-                                    </div>
+                                <div class="card-body m-1">
+                                    <img src="https://img.icons8.com/ios/50/000000/diamond--v1.png" />
                                     <h4 class="card-title theme-text-color">Our Mission</h4>
                                     <p class="card-text">To provide quality, reliable, personalised service to clients
                                         at a competitive price.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-4 p-5">
+                        <div class="col-xl-4 p-2">
                             <div class="theme-bg card text-center">
                                 <div class="card-body">
                                     <!-- <img src="https://img.icons8.com/ios/100/000000/visible--v1.png"/> -->
@@ -81,7 +79,7 @@
 
                 </div>
                 <div class="theme-bg theme-body-space">
-                    <div class="container text-center">
+                    <div class="container text-center" data-aos="fade-right">
                         <h2 class="theme-font-text pb-3"><b>Corporate Social Investment</b></h2>
                         <img class="img-fluid" src="/public/imgs/site-images/csi.jpg" alt="">
                         <p class="mb-0 pt-5">
