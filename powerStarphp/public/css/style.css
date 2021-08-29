@@ -58,8 +58,8 @@ ul {
 }
 
 .theme-header-space {
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 .theme-body-space {
@@ -105,9 +105,9 @@ footer {
     background-color: #433d3c;
 }
 
-#button {
+#scrollTop {
   display: inline-block;
-  background-color: #FF9800;
+  background-color: #706b62;
   width: 50px;
   height: 50px;
   text-align: center;
