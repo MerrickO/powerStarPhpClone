@@ -88,8 +88,13 @@
                         </div>
                     </div>
                 </div>
-
-                <?php include './partials/footer.php'; ?>
+                <div class="row text-center">
+                    <div class="col">
+                        <p>Download Our Company Profile</p>
+                        <a class="btn btn-lg theme-btn" href="/public//imgs/downloads/pstar-company-profile-sm.pdf" download>Download</a>
+                    </div>
+                </div>
+            <?php include './partials/footer.php'; ?>
     </body>
 
 </html>
