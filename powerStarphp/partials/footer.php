@@ -10,8 +10,8 @@
 <footer class="theme-body-space">
     <div class="container">
         <div class="text-center">
-            <img class="img-fluid" src="/public/imgs/powerstar-white.png" alt="">
-            <p class="text-white"><small>© POWERSTAR SERVICE CENTRE. ALL RIGHTS RESERVED.</small></p>
+            <img class="img-fluid" src="/public/imgs/alaysa logo only.png" height="150" width="350" alt="">
+            <p class="text-white"><small>© ALAYSA INVESTMENTS (PTY) LTD. ALL RIGHTS RESERVED.</small></p>
         </div>
     </div>
 </footer>
