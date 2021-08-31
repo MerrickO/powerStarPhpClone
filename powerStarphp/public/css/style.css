@@ -20,6 +20,14 @@ h2 {
     font-weight: 400 !important;
 }
 
+.social svg {
+    color: #e7e7e7;
+}
+
+.social svg :hover {
+    color: #ae0025;
+}
+
 /* Accordion styling */
 h2 button {
     background-color: #f5f8f8 !important;
