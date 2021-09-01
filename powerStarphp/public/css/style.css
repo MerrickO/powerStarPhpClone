@@ -28,6 +28,13 @@ h2 {
     color: #ae0025;
 }
 
+.service-img {
+    background-image: url("/public/imgs/site-images/powerstar-truck-main.jpg");
+    background-size: cover;
+    background-position: center;
+    filter: grayscale(40%);
+}
+
 /* Accordion styling */
 h2 button {
     background-color: #f5f8f8 !important;
@@ -83,6 +90,10 @@ ul {
 .theme-btn:hover {
     background-color: #433d3c !important;
     color: white;    
+}
+
+.theme-text-color3 {
+    color: white;
 }
 
 .theme-grey {
