@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include './partials/header.php'; ?>
     <body>
-        
+        <?php include './partials/notification.php' ?>
         <?php include './partials/nav.php'; ?>
             <header class="text-center">
                 <h1 class="display-3 theme-bg mb-0 theme-header-space"><b>SERVICES</b></h1>
