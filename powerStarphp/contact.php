@@ -19,31 +19,39 @@
                 </header>
                 <div class="text-center theme-body-space">
                     <div>
-                        <p><strong>Khetha Dludla</strong></p>
+                        <p class="m-0"><strong>Khetha Dludla</strong></p>
                         <p class="m-0">Sales & Marketing</p>
                         <p class="m-0">
-                            <a href="mailto:salesexec@powerstarsc.com"
-                                data-link="mailto:salesexec@powerstarsc.com">salesexec2@powerstarsc.com</a>
+                            <a href="mailto:sale@ai.com"
+                                data-link="mailto:sales@ai.com">sales@ai.com</a>
                         </p>
-                        <p class="mt-0">082 870 4362 / 035 772 1739</p>
-                        <p class="mb-0">Sales</p>
-                        <p class="m-0">
-                            <a href="mailto:salesexec@powerstarsc.com"
-                                data-link="mailto:salesexec@powerstarsc.com">salesexec@powerstarsc.com</a>
+                        <p>082 870 4362 / 035 772 1739</p>
+                        <p class="m-0"><strong>Sharon</strong></p>
+                        <p class="m-0">Finance</p>
+                        <p>
+                            <a href="mailto:finance@ai.com"
+                                data-link="mailto:finance@ai.com">finance@ai.com</a>
                         </p>
-                        <p class="mt-0">035 772 1539</p>
+
+                        <p class="m-0"><strong>Reuel</strong></p>
+                        <p class="mb-0">Parts</p>
+                        <p>
+                            <a href="mailto:parts@ai.com"
+                                data-link="mailto:parts@ai.com">parts@ai.com</a>
+                        </p>
+
+                        <p class="m-0"><strong>Ritesh</strong></p>
+                        <p class="mb-0">Parts</p>
+                        <p>
+                            <a href="mailto:workshop@ai.com"
+                                data-link="mailto:workshop@ai.com">workshop@ai.com</a>
+                        </p>
                     </div>
                     <div>
-                        <p class="mb-0"><strong>Jay Reddy</strong></p>
-                        <p class="m-0">Tel 082 924 8421 / 084 763 0505</p>
-                        <p class="mt-0">
-                            <a data-link="mailto:jayreddy@powerstarsc.com"
-                                href="mailto:jayreddy@powerstarsc.com">jayreddy@powerstarsc.com</a>
-                        </p>
                         <p>Unit B8C Magazulu Park C/o R34 to Melmoth & D254 Empangeni, 3880</p>
                         <p class="mt-0"> Email:
-                            <a data-link="mailto:admin@powerstarsc.com"
-                                href="mailto:admin@powerstarsc.com">admin@powerstarsc.com</a>
+                            <a data-link="mailto:sales@ai.com"
+                                href="mailto:sales@ai.com">sales@ai.com</a>
                         </p>
                     </div>
                     <div class="row mt-5 m-0">
@@ -89,7 +97,7 @@
                     </div>
                 </div>
                 <div class="row text-center">
-                    <div class="col">
+                    <div class="col pb-5">
                         <p>Download Our Company Profile</p>
                         <a class="btn btn-lg theme-btn" href="/public//imgs/downloads/pstar-company-profile-sm.pdf" download>Download</a>
                     </div>
