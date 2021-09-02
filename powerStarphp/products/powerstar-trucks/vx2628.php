@@ -391,7 +391,7 @@
                     </div>
 
                     <div class="col">
-                      <button class="btn btn-lg theme-btn">Contact Us Now</button>
+                      <?php include '../../partials/contact-modal.php' ?>
                     </div>
                   </div>
                 </div>

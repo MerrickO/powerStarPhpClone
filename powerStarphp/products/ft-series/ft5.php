@@ -352,7 +352,7 @@
                       <a class="btn btn-lg theme-btn" href="/public/imgs/products/ft5/ft5.pdf" download>Download Specs</a>
                     </div>
                     <div class="col">
-                      <button class="btn btn-lg theme-btn">Contact Us Now</button>
+                      <?php include '../../partials/contact-modal.php' ?>
                     </div>
                   </div>
                 </div>
