@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $title="Powerstar Service Center Products: Powerstar Trucks Series" ?>
+<?php $title="Alaysa Investments (PTY) LTD Products: Powerstar Trucks Series" ?>
 
 <?php include '../partials/header.php'; ?>
 

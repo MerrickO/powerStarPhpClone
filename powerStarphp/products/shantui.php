@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $title="Powerstar Service Center Products: Shantui" ?>
+<?php $title="Alaysa Investments (PTY) LTD Products: Shantui" ?>
 
 <?php include '../partials/header.php'; ?>
 

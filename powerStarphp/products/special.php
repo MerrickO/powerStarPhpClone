@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $title="Powerstar Service Center Products: Specialized" ?>
+<?php $title="Alaysa Investments (PTY) LTD Products: Specialized" ?>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
