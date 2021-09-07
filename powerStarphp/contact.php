@@ -91,11 +91,7 @@
                             <p>Google Maps</p>
                         </div>
                         <div class="col-xl-6">
-                            <form action="./mail-handler.php" method="POST">
-                                <div class="row">
-                                    <?php include './partials/contact-form.php'; ?>
-                                </div>
-                            </form>
+                            <?php include './partials/contact-form.php'; ?>
                         </div>
                     </div>
                 </div>
