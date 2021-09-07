@@ -83,7 +83,7 @@ ul {
 }
 
 .theme-bg, .theme-btn {
-    background-color: #ae0025;
+    background-color: #ae0025 !important; 
     color: white;
 }
 
