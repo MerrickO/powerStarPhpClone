@@ -112,6 +112,10 @@ ul {
     font-weight: 700;
 }
 
+.eskom-resize {
+    height: 50px;
+}
+
 span {
     color: red;
 }
